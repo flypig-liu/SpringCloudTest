@@ -1,0 +1,4 @@
+mysql:
+  url: jdbc:mysql://localhost:3306/spring_cloud_user_system?useSSL=false&serverTimezone=GMT&characterEncoding=UTF-8
+lagou:
+  message: hello lagou 1000
